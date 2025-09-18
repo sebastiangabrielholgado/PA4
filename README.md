@@ -16,4 +16,5 @@ import matplotlib.pyplot as plt
 > b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 
 # 2) Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
-- In this part, I created a boxplot to easily show the data that is given above for easy comparison. 
+- In this part, I created a boxplot to easily show the data that is given above for easy comparison.
+- I mainly used the sns and the matlib libraries in order to create the graphs which is something I had to research further in order for me to create the charts.
