@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 #### Version History:
 ##### [v1.1.0] - 9/17/2025
-##### [v1.2.0] - 9/23/2024
+##### [v1.2.0] - 9/23/2025
 ###### Changes:
 - Improved the title of the graphs
 - Updated the style of the graph
