@@ -18,3 +18,12 @@ import matplotlib.pyplot as plt
 # 2) Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 - In this part, I created a boxplot to easily show the data that is given above for easy comparison.
 - I mainly used the sns and the matlib libraries in order to create the graphs which is something I had to research further in order for me to create the charts.
+
+#### Version History:
+##### [v1.1.0] - 9/17/2025
+##### [v1.2.0] - 9/23/2024
+###### Changes:
+- Improved the title of the graphs
+- Updated the style of the graph
+- Adjusted the font sizes
+- Added labels to the x and y axis
